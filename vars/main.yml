@@ -144,6 +144,11 @@ gitlab_version_map:
     ce:    '8-14-stable'
     gitlab_workhorse: 'v1.0.1'
 
+  '8.15':
+    shell: 'v4.1.1'
+    ce:    '8-15-stable'
+    gitlab_workhorse: 'v1.2.1'
+
 
 # ---- GitLab CE installation ----
 

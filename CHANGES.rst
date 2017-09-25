@@ -25,6 +25,10 @@ Removed
   https://github.com/gitlabhq/gitlab-recipes/tree/master/database/migrate-mysql-to-postgres
   [bfabio_]
 
+Added
+~~~~~
+
+- Add support for GitLab 10.0. [bfabio_]
 
 `debops.gitlab v0.2.2`_ - 2017-08-16
 ------------------------------------
